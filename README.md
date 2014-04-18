@@ -9,5 +9,8 @@ interface for managing users, repositories and permissions.
 Reference
 =========
 
+Setting up GIT server through SSH
+http://git-scm.com/book/en/Git-on-the-Server-Setting-Up-the-Server
+
 
 
